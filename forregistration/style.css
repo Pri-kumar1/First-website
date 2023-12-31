@@ -1,0 +1,19 @@
+body{
+    height: 800px;
+    
+         /* Set the background image to cover the entire viewport */
+         background-size: cover;
+         
+         /* Center the background image horizontally and vertically */
+         background-position: center;
+         
+         /* Repeat the image to cover the entire background, if needed */
+         background-repeat: no-repeat;
+         
+         /* Optional: You can set a background color in case the image isn't available or to display behind the image */
+         background-image: url('ROG_wallpaper-Laputu_1920x1080.jpg')
+         
+     }
+ h1{
+     background-color: rgb(230, 250, 119);
+ }

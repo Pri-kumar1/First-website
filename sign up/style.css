@@ -17,6 +17,13 @@ section{
     height: 100%;
    
   }
- 
+  body
+  {
+            background-image: url('ROG-wallpaper-Cybernetic-Faith_1920x1080.jpg');
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size:100% 100% ;
+          
+  }
   
   
